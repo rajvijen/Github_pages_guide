@@ -59,7 +59,8 @@ Just like below:-
 Fire up a browser and go to https://username.github.io.
                 :white_check_mark:
       
-* __Now that you’re up and running, here are a few things you should know.__
+      
+# __Now that you’re up and running, here are a few things you should know.__
 
 
 * [Blogging with Jekyll](https://jekyllrb.com/)__ :pencil:
