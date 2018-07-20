@@ -63,7 +63,7 @@ Fire up a browser and go to https://username.github.io.
 # __Now that you’re up and running, here are a few things you should know.__
 
 
-* [Blogging with Jekyll](https://jekyllrb.com/)__ :pencil:
+* __[Blogging with Jekyll](https://jekyllrb.com/)__ :pencil:
 
   Using __[Jekyll](https://jekyllrb.com/)__, you can blog using beautiful Markdown syntax, and without having to deal with any         
   databases. __[Learn how to set up Jekyll](https://jekyllrb.com/doc/quick-start)__.
