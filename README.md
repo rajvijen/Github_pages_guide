@@ -59,5 +59,25 @@ Just like below:-
 Fire up a browser and go to https://username.github.io.
                 :white_check_mark:
       
-  
- Reference: __[Github](https://github.com)__     
+* __Now that you’re up and running, here are a few things you should know.__
+
+
+* [Blogging with Jekyll](https://jekyllrb.com/)__ :pencil:
+
+  Using __[Jekyll](https://jekyllrb.com/)__, you can blog using beautiful Markdown syntax, and without having to deal with any         
+  databases. __[Learn how to set up Jekyll](https://jekyllrb.com/doc/quick-start)__.
+
+
+* __[Custom URLs](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)__ :link:
+
+  Want to use your own custom domain for a GitHub Pages site? Just create a file named CNAME and include your URL. 
+  __[Read more](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)__.
+
+
+* __[Guides](https://help.github.com/categories/github-pages-basics/)__ :book:
+
+   Learn how to create custom 404 pages, use submodules, and 
+   __[learn more about GitHub Pages](https://help.github.com/categories/github-pages-basics/)__.
+
+
+   Reference: __[Github](https://github.com)__     
