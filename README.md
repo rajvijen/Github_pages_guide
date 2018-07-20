@@ -66,7 +66,7 @@ Fire up a browser and go to https://username.github.io.
 * __[Blogging with Jekyll](https://jekyllrb.com/)__ :pencil:
 
   Using __[Jekyll](https://jekyllrb.com/)__, you can blog using beautiful Markdown syntax, and without having to deal with any         
-  databases. __[Learn how to set up Jekyll](https://jekyllrb.com/doc/quick-start)__.
+  databases. __[Learn how to set up Jekyll](https://jekyllrb.com/doc/quickstart)__.
 
 
 * __[Custom URLs](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)__ :link:
